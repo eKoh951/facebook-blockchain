@@ -39,3 +39,6 @@ yarn-error.log*
 
 # sanity
 /studio/node_modules
+
+# anchor
+/programs/node_modules
